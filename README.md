@@ -129,19 +129,6 @@ Interactive visualizer for **FCFS, SSTF, SCAN and C-SCAN** with graphical disk h
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kumkum027&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumkum027&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top languages" />
-
-<img src="https://streak-stats.demolab.com?user=kumkum027&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
-
-</div>
-
----
-
 ## 🏆 Achievements
 
 - 🧩 Solved **100+ problems on LeetCode** since Aug 2024, strengthening DSA and problem-solving
