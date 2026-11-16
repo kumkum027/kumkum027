@@ -17,19 +17,37 @@
 
 ---
 
-## 👩‍💻 About Me
 
-```js
-const kumkum = {
-  role: "Full Stack Web Developer",
-  education: "B.Tech CSE @ Lovely Professional University (CGPA 8.51)",
-  location: "Punjab, India 🇮🇳",
-  focus: ["React.js", "Next.js", "Node.js", "PostgreSQL", "REST APIs"],
-  currentlyLearning: ["Advanced DSA", "System Design", "Next.js"],
-  strengths: ["Analytical Problem-Solving", "Team Collaboration", "Adaptability", "Self-Learning"],
-  funFact: "I turn real-world problems into working products 🚀"
-};
-```
+<div align="center">
+
+  <h2>👩‍💻 About Me</h2>
+
+  <p>
+    <strong>Full Stack Web Developer</strong> | B.Tech CSE Student
+  </p>
+
+  <p>
+    🎓 Lovely Professional University &nbsp; | &nbsp; 📍 Punjab, India 🇮🇳
+  </p>
+
+  <p>
+    💻 React.js • Next.js • Node.js • PostgreSQL • REST APIs
+  </p>
+
+  <p>
+    🧠 Currently Learning: Advanced DSA • System Design
+  </p>
+
+  <p>
+    ⚡ Strengths: Problem Solving • Team Collaboration • Adaptability
+  </p>
+
+  <p>
+    🚀 I turn real-world problems into working products.
+  </p>
+
+</div>
+
 
 ---
 
